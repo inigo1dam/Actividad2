@@ -93,11 +93,8 @@ class Jugador{
         }
         return opcion;
     }
-    public void setÉxitos() 
-    {
-        éxitos++;
-    }
-    public int getÉxitos() 
+
+    public int getÉxitos()
     {
         return(éxitos);
     }
